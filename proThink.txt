@@ -1,0 +1,14 @@
+Goal - Making the Restaurant Information Appear when clicking on their Unique link
+
+
+1. Create the links - Done
+Warning Message - encountered two children with the same key, 'index' 
+
+2. Route the links in react front-end
+
+3. Route the api in Express back-end
+
+4. Fetch the information in api from connecting route of react to Express
+4.a If the Url after "api/" matches the key "id" in the json api file then fetch the data
+
+5. Display the information in JSX
